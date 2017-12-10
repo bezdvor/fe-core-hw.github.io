@@ -1,0 +1,70 @@
+html {
+   height: 100%;
+    width: 100%;}
+/**{margin: 0px; padding: 0px;}*/
+body{ background: #ccf url('images/Himchari Sea Beach 23.jpg')
+    no-repeat top left  scroll;
+   background-size: cover;}
+div{font-family: 'Roboto', sans-serif;}
+.wrapper {
+  width: 1400px;
+   height: 2280px;
+   margin: auto;
+   background: rgba(255, 255, 255, 0.5);
+   position: absolute;
+   left: 50%;
+   top: 50%;
+   margin-left: -750px;
+   margin-top: -400px;
+    padding: 60px;
+} 
+a{color: #585f67;
+font-weight: bold;
+}
+a:hover{color: #ff2700;}
+.a1{font-size: 24px;}
+p{
+font-family: 'Roboto', sans-serif;
+    text-align: justify;
+color: #585f67;
+}
+h1{font-family:'Roboto', sans-serif;color: #ff2700;
+    text-indent: 30px;
+    text-decoration: underline;
+}
+h2{font-family:'Roboto', sans-serif;color: #ff2700;
+text-indent: 30px;}
+.p1{   
+    font-size: 24px;
+    text-indent: 30px;
+}
+.div1{height: 600px; width:1400px;
+background: url(https://i.pinimg.com/originals/16/28/8c/16288cba2786f2ea816837a8b1e1a00a.jpg)no-repeat top left  scroll;
+    background-size: cover;
+}
+.div2{
+border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #ff2700;}
+.div3{font-size: 24px;
+    text-indent: 30px;
+color: #585f67;
+font-weight: bold;
+}
+.link{ width: 650px;
+box-sizing: border-box;
+     display: inline-block;
+    text-indent: 25px;
+    margin-top: 0px;
+    line-height: 2;
+    font-size: 24px;
+ }
+.link1{ width: 650px;
+/*    position: absolute;*/
+    box-sizing: border-box;
+     display: inline-block;
+    margin-left: 0px;
+    margin-top: 0px;
+    line-height: 2;
+    font-size: 24px;
+}
